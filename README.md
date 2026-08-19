@@ -1,4 +1,4 @@
-> **Open for remote contract roles** — GPU/CPU performance work, kernel optimization and benchmarking.
+> **Open for remote contract work** — GPU/CPU performance work, kernel optimization and benchmarking.
 
 Performance engineer. I make code go fast on multicore CPUs and GPUs, and I measure
 what the hardware can actually do rather than what the spec sheet claims.
